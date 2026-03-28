@@ -11,9 +11,8 @@
 > ### Lyrics
 > - Message from <@423915768191647755> : Doesn't work because the API has been out for about a year now.
 > - Message from <@423915768191647755> : Honestly I thought I deleted it but eh whatever who cares amirite
-> ### NitroSpoof
-> - Replaced with 👉 [FreeNitroEmojis](https://discord.com/channels/811255666990907402/845784407846813696/1469665456733556736)
-> - Replaced with 👉 [FakeStickers](https://discord.com/channels/811255666990907402/845784407846813696/899134710746320946)
+> ### NitroSpoof (by X1nto)
+> - Replaced with 👉 [NitroSpoof](https://github.com/kiwi-706/AliucordPlugins/raw/builds/NitroSpoof.zip)
 > - [Link](https://github.com/X1nto/AliucordPlugins/raw/builds/NitroSpoof.zip)
 > ### HideBloat
 > - Replaced with 👉 [LayoutController](<https://github.com/X1nto/AliucordPlugins/raw/builds/LayoutController.zip>)

@@ -26,5 +26,4 @@
 > - **May be still works if you are not bothered by visual discrepancies**
 > - [Link](<https://github.com/ItzOnlyAnimal/AliuPlugins/raw/builds/GateFix.zip>)
 > ### FreeNitro
-> - Deez nuts epic troll
 > - [Source Code](<https://github.com/ItzOnlyAnimal/AliuPlugins/raw/builds/FreeNitro.zip>)

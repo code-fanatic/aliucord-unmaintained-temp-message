@@ -6,8 +6,6 @@
 > - Message from <@118437263754395652> : so im just putting it here since im ofc not working on it
 > - **As far as i'm concerned it still works if you are not bothered by visual discrepancies**
 > - [Link](<https://github.com/ItzOnlyAnimal/AliuPlugins/raw/builds/GateFix.zip>)
-> ### FreeNitro
-> - [Source Code](<https://github.com/ItzOnlyAnimal/AliuPlugins/raw/builds/FreeNitro.zip>)
 
 > ### ShowNames
 > - [Link](https://github.com/TymanWasTaken/aliucord-plugins/raw/builds/ShowNames.zip)
